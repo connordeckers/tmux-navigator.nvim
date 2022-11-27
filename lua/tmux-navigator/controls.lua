@@ -1,4 +1,3 @@
-local notify = require("notify").notify
 local util = require("tmux-navigator.utils")
 local config = require("tmux-navigator.config")
 

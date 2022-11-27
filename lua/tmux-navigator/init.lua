@@ -1,6 +1,5 @@
 -- Replicates the tmux-aware navigation of
 -- github.com/christoomey/vim-tmux-navigator/blob/master/plugin/tmux_navigator.vim
-local notify = require("notify").notify
 local tmux = require("tmux-navigator.controls")
 
 local T = {}
